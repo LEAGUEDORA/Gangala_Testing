@@ -9,6 +9,8 @@ import json
 import pandas as pd
 lis,li,ml,mpl,bug_list=[],[],[],[],[]
 import gspread
+#import os
+#os.path.join("selitestcerd.json")
 gc = gspread.service_account(filename = "D:\\ref\\templates\\Python Codes\\Selenium\\selitestcerd.json")
 sh = gc.open_by_key("1og5kORoM3-82yg_uV34e39gh6EYht7lZxmHqG6QLApQ")
 worksheet = sh.sheet1
