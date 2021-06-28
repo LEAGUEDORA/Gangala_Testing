@@ -21,6 +21,6 @@ Go to Settings in chrome -> click on About chrome
 
 ![alt text](https://github.com/AlluDaddy/Gangala_Testing/blob/main/image.png?raw=true)
 
-
+Install the corresponding chromedriver version from chrome.
 
 
