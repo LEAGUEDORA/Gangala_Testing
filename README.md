@@ -10,7 +10,7 @@ pip install -r requirements.txt
 
 
 
-The chromedriver is dependent on the version of the chromedriver.
+The chromedriver is dependent on the version of the chrome.
 
 
 To know the version of your chrome:
