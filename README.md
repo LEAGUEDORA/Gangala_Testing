@@ -9,7 +9,7 @@ pip install -r requirements.txt
 
 The chromedriver is dependent on the version of the chromedriver.
 
-## Path = "D:\Download(D)\chromedriver_win32 (1)\chromedriver.exe"
+### Path = "D:\Download(D)\chromedriver_win32 (1)\chromedriver.exe"
 
 
 To know the version of your chrome:
